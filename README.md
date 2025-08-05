@@ -1,22 +1,22 @@
 # 👩🏻‍💻 Brian Avena Martinez
 
-**`Desenvolvedora FullStack`**
+**Analista de Suporte Tecnico**
 
 Me chamo Brian Avena Martinez, tenho 26 anos e sou de Florianopolis. Atualmente, estou cursando segurança da informação na universidade Uninter. Sou apaixonado por tecnologia, principalmente na area de Cybersecurity.
 
 </a> 
-    <a href="https://github.com/BrianCrazy99?tab=repositories&sort=stargazers">
+    <a href="https://github.com/BraianCrazy99?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/BrianCrazy99?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/BraianCrazy99?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/BrianCrazy99?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/BrianCrazy99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/BraianCrazy99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -117,14 +117,14 @@ Me chamo Brian Avena Martinez, tenho 26 anos e sou de Florianopolis. Atualmente,
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BrianCrazy99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=BraianCrazy99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianCrazy99&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianCrazy99&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
