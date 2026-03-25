@@ -1,8 +1,10 @@
 # 👩🏻‍💻 Brian Avena Martinez
 
-**Analista de Suporte Tecnico**
-
-Me chamo Brian Avena Martinez, tenho 27 anos e sou de Florianopolis. Atualmente, estou em processo de formação para a area de back-end.
+💼 Analista de Suporte Técnico  
+🚀 Em transição para Desenvolvedor Back-end  
+☕ Estudando Java e APIs REST  
+📚 Aprendendo na prática com projetos reais  
+📍 Florianópolis - SC
 
 </a> 
     <a href="https://github.com/BraianCrazy99?tab=repositories&sort=stargazers">
