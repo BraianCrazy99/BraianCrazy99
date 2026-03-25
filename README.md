@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Brian Avena Martinez
+# 👨‍💻 Brian Avena Martinez
 
 💼 Analista de Suporte Técnico  
 🚀 Em transição para Desenvolvedor Back-end  
