@@ -2,7 +2,7 @@
 
 **Analista de Suporte Tecnico**
 
-Me chamo Brian Avena Martinez, tenho 26 anos e sou de Florianopolis. Atualmente, estou cursando segurança da informação na universidade Uninter. Sou apaixonado por tecnologia, principalmente na area de Cybersecurity.
+Me chamo Brian Avena Martinez, tenho 27 anos e sou de Florianopolis. Atualmente, estou cursando segurança da informação na universidade Uninter. Sou apaixonado por tecnologia, principalmente na area de Cybersecurity.
 
 </a> 
     <a href="https://github.com/BraianCrazy99?tab=repositories&sort=stargazers">
