@@ -47,7 +47,7 @@ Me chamo Brian Avena Martinez, tenho 27 anos e sou de Florianopolis. Atualmente,
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://devicon-website.vercel.app/?icon=java" 
 />
 <img 
     align="left" 
