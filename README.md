@@ -2,7 +2,7 @@
 
 💼 Analista de Suporte Técnico  
 🚀 Em transição para Desenvolvedor Back-end  
-☕ Estudando Java e APIs REST  
+☕ Estudando JavaScript 
 📚 Aprendendo na prática com projetos reais  
 📍 Florianópolis - SC
 
@@ -34,22 +34,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
